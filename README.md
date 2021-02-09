@@ -2,7 +2,7 @@
 
 Aqui temos todos os materiais de Lógica que utilizo nas minhas aulas de desenvolvimento de sistemas.
 <!-- AQUI VOCÊ PODE COLOCAR O LOGO, UMA IMAGEM QUE REPRESENTE O PROJETO OU O QUE MAIS QUISER -->
-![image](https://user-images.githubusercontent.com/77402854/107373664-8a84e980-6ac5-11eb-9f8f-296da470b3ea.png)
+![image](https://user-images.githubusercontent.com/77402854/107382135-5235d900-6ace-11eb-8a5d-b3f77d808246.png)
 
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-F21B3F) ![Projeto](https://img.shields.io/badge/Projeto-Lógica-08BDBD) ![Languange JS](https://img.shields.io/badge/Language-Portugol-F7DF1E) 
